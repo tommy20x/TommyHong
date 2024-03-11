@@ -6,7 +6,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/TommyHong/TommyHong/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/tommy20x/TommyHong/blob/master/divider1.png" alt="divider"/>
 </div>
 
 <h3 align="center"><img src="https://github.com/TommyHong/TommyHong/blob/main/code.gif" height="20"/> Tech & Tools</h3>
@@ -94,7 +94,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/TommyHong/TommyHong/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/tommy20x/TommyHong/blob/master/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
