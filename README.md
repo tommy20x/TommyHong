@@ -101,14 +101,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/TommyHong/TommyHong/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/tommy20x/TommyHong/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
-  <img src="https://github.com/TommyHong/TommyHong/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/tommy20x/TommyHong/blob/main/portfolio.png" alt="Portfolio"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/TommyHong/TommyHong/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/tommy20x/TommyHong/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <p align = "center">
